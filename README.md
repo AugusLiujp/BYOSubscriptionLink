@@ -12,7 +12,7 @@
 
         1、打开V2rayN，并把自建的节点导入，导入后全选节点，右击-选择-批量导出订阅内容至剪贴板（导出的内容就已经是转换好的base64编码），如下图：
 
--25-image.png" title="" alt="" width="470">
+[-25-image.png" title="" alt="" width="470">](https://github.com/867668492/BYOSubscriptionLink/blob/main/images/1.png)
 
         2、桌面新建文本文档，粘贴导出的base64编码，文件名自定义（过程简单不做分享）。
 
