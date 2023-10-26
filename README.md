@@ -12,7 +12,7 @@
 
         1、打开V2rayN，并把自建的节点导入，导入后全选节点，右击-选择-批量导出订阅内容至剪贴板（导出的内容就已经是转换好的base64编码），如下图：
 
-        ![Image text](images/1.png)
+        <img src="images/1.png" width="50%" />
 
         2、桌面新建文本文档，粘贴导出的base64编码，文件名自定义（过程简单不做分享）。
 
@@ -20,14 +20,14 @@
         <img src="images/2.png" width="50%" />
 
         4、上传后选中你要订阅的文件，选择共享
-        ![Image text](images/3.png)
+        <img src="images/3.png" width="50%" />
         5、修改可编辑的权限，点击应用。
-        ![Image text](images/4.png)
-        ![Image text](images/5.png)
+        <img src="images/4.png" width="50%" />
+        <img src="images/5.png" width="50%" />
         6、会出现如下的链接，复制链接备用。
-        ![Image text](images/7.png)
+        <img src="images/6.png" width="50%" />
         7、打开OneDrive网盘永久外链生成工具，粘贴你上面复制的连接到下面框里，
-        ![Image text](images/8.png)
+        <img src="images/7.png" width="50%" />
 得到如下的链接，会带.mp3的后辍，删掉这个后辍，粘贴到你的小火箭等地方，接下来更新就搞定了。
-
+        <img src="images/8.png" width="50%" />
 以后节点有更新只需要在OneDrive里更新文本文档里的base64编码即可。
