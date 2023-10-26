@@ -17,7 +17,7 @@
         2、桌面新建文本文档，粘贴导出的base64编码，文件名自定义（过程简单不做分享）。
 
         3、打开OneDrive网站，并登录你的微软账号。上传刚刚的文本文档到OneDrive,如下：
-        ![Image text](images/2.png)
+        ![Image text](images/2.png)img src="" title="" alt="" width="470">
 
         4、上传后选中你要订阅的文件，选择共享
         ![Image text](images/3.png)
